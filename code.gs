@@ -2,13 +2,13 @@ const NOTION_TOKEN = 'NOTION_API_KEY';
 
 // Mapping of project names to database IDs
 const DATABASE_IDS = {
-  "NSC Events": "DATABASE_ID",
-  "Belinda's Closet": "DATABASE_ID",
-  "Pelletier Construction": "DATABASE_ID",
-  "NSC AD Program Website": "DATABASE_ID",
-  "GeekGirlCon": "DATABASE_ID",
-  "Shift Scheduling App": "DATABASE_ID",
-  "Licton Springs Review": "DATABASE_ID"
+  "DATABASE_NAME": "DATABASE_ID",
+  "DATABASE_NAME": "DATABASE_ID",
+  "DATABASE_NAME": "DATABASE_ID",
+  "DATABASE_NAME": "DATABASE_ID",
+  "DATABASE_NAME": "DATABASE_ID",
+  "DATABASE_NAME": "DATABASE_ID",
+  "DATABASE_NAME": "DATABASE_ID"
 };
 
 function onFormSubmit(e) {
